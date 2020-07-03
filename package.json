@@ -1,0 +1,16 @@
+{
+  "name": "speaktext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/anmol224/text-to-speech",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
